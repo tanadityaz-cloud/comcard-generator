@@ -1,0 +1,6 @@
+{
+  "name": "Orland Management & Comcard Generator",
+  "description": "Official Orland Management talent showcase and professional Comp Card generator with Google Drive cloud backup, crop controls, and editorial export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
